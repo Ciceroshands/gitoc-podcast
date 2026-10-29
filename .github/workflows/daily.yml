@@ -1,0 +1,84 @@
+name: Daily GI-TOC podcast
+
+on:
+  schedule:
+    # Every day at 04:17 UTC. Change this to suit your time zone:
+    # https://crontab.guru  (GitHub cron is always UTC)
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test run: make audio but don't publish it"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast
+  cancel-in-progress: false
+
+jobs:
+  episodes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install ffmpeg
+        run: which ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Make new episodes
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+
+          # ---- Your settings (edit freely) ----
+          SHOW_TITLE: "Organized Crime Report Briefings"
+          EPISODE_MINUTES: "12"            # target length per episode
+          EPISODE_LANGUAGE: "English"
+          LISTENER_FOCUS: ""               # e.g. "implications for West Africa and EU policy"
+          MAX_NEW_PER_RUN: "2"             # cap per night; keeps within Gemini's free tier
+          TTS_CHUNK_CHARS: "4000"          # bigger = fewer voice requests per episode
+          FIRST_RUN_BACKFILL: "2"          # episodes to make on the very first run
+          REPORTS_ONLY: "true"             # "false" also turns short articles into episodes
+          HOST_A_NAME: "Maya"
+          HOST_B_NAME: "Daniel"
+          HOST_A_VOICE: "Kore"             # voice list: see README
+          HOST_B_VOICE: "Charon"
+          KEEP_EPISODES: "150"
+          SCRIPT_MODEL: "gemini-3.8-flash"
+          TTS_MODEL: "gemini-3.8-flash-tts" # or "gemini-3.8-flash-lite-tts" if you hit free limits
+        run: python podcast.py
+
+      - name: Save feed and state
+        if: always() && inputs.dry_run != true
+        run: |
+          git config user.name "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          mkdir -p state docs
+          git add state docs
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update podcast feed $(date -u +%F)"
+            git push
+          fi
+
+      - name: Keep test audio
+        if: inputs.dry_run == true
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-episodes
+          path: out/*.mp3
+          if-no-files-found: ignore
