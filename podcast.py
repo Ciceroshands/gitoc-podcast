@@ -109,7 +109,7 @@ def load_config() -> dict:
 
 
 def log(msg: str) -> None:
-    print(f"[{dt.datetime.utcnow():%H:%M:%S}] {msg}", flush=True)
+    print(f"[{dt.datetime.now(dt.timezone.utc):%H:%M:%S}] {msg}", flush=True)
 
 
 # --------------------------------------------------------------------------
@@ -208,7 +208,9 @@ def inspect_article(url: str, session: requests.Session) -> dict:
     pdfs = []
     for a in soup.find_all("a", href=True):
         href = urljoin(url, a["href"])
-        if urlparse(href).path.lower().endswith(".pdf") and href not in pdfs:
+        host = urlparse(href).netloc.lower()
+        own = host == "globalinitiative.net" or host.endswith(".globalinitiative.net")
+        if own and urlparse(href).path.lower().endswith(".pdf") and href not in pdfs:
             pdfs.append(href)
     # Prefer English, non-summary versions.
     pdfs.sort(key=lambda h: (bool(TRANSLATION_HINT.search(urlparse(h).path + "-")),
@@ -415,7 +417,6 @@ def speak(cfg: dict, turns: list[dict]) -> bytes:
             }],
             "response_format": {"type": "audio", "mime_type": "audio/l16", "sample_rate": SAMPLE_RATE},
             "generation_config": {"speech_config": {
-                "mode": "conversational",
                 "speakers": [{"speaker": cfg["host_a"], "voice": cfg["voice_a"]},
                              {"speaker": cfg["host_b"], "voice": cfg["voice_b"]}],
             }},
@@ -609,7 +610,13 @@ def make_episode(cfg: dict, session: requests.Session, article: dict) -> dict | 
                 log("  Page text too short to make an episode; skipping")
                 return None
 
-        script = write_script(cfg, {**info, "title": title}, pdf_path)
+        cache = STATE_DIR / "pending" / (hashlib.sha1(article["url"].encode()).hexdigest()[:12] + ".json")
+        script = load_json(cache, None)
+        if script:
+            log("  Reusing the script saved on a previous attempt")
+        else:
+            script = write_script(cfg, {**info, "title": title}, pdf_path)
+            save_json(cache, script)
 
     ep_title = script["title"] or title
     log(f"  Script: {len(script['turns'])} turns, ~{sum(len(t['text'].split()) for t in script['turns'])} words")
@@ -625,6 +632,7 @@ def make_episode(cfg: dict, session: requests.Session, article: dict) -> dict | 
 
     (STATE_DIR / "scripts").mkdir(parents=True, exist_ok=True)
     save_json(STATE_DIR / "scripts" / f"{mp3.stem}.json", {"source": article["url"], **script})
+    cache.unlink(missing_ok=True)
 
     audio_url = publish_audio(cfg, mp3, tag, ep_title, f"{script['summary']}\n\nSource: {article['url']}")
     return {
