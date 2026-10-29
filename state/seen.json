@@ -3,12 +3,12 @@
     "https://globalinitiative.net/analysis/24-hour-global-organized-crime-conference-2026/",
     "https://globalinitiative.net/analysis/a-decisive-test-for-police-reform/",
     "https://globalinitiative.net/analysis/addressing-environmental-crime-through-community-action/",
+    "https://globalinitiative.net/analysis/captagon-syria-western-asia/",
     "https://globalinitiative.net/analysis/crimen-organizado-respuesta-estatal-guatemala/",
+    "https://globalinitiative.net/analysis/global-organized-crime-index-2025-eastern-and-southeastern-asia-overview/",
     "https://globalinitiative.net/analysis/irans-illicit-economies-after-six-months-of-war/",
+    "https://globalinitiative.net/analysis/western-cape-gang-monitor-issue-10/",
     "https://globalinitiative.net/announcements/usp-gitoc-academic-cooperation/"
   ],
-  "failures": {
-    "https://globalinitiative.net/analysis/western-cape-gang-monitor-issue-10/": 1,
-    "https://globalinitiative.net/analysis/captagon-syria-western-asia/": 1
-  }
+  "failures": {}
 }

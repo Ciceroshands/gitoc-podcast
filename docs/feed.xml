@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organized Crime Report Briefings</title>
+    <link>https://ciceroshands.github.io/gitoc-podcast/</link>
+    <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Oct 2026 13:10:00 +0000</lastBuildDate>
+    <itunes:author>Private feed</itunes:author>
+    <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
+    <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
+    <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <item>
+      <title>Inside the Western Cape Gang Ecosystem</title>
+      <description>Maya and Daniel break down Issue 10 of the Western Cape Gang Monitor by the Global Initiative Against Transnational Organized Crime. They explore why military deployment under Operation Prosper is faltering, how incarcerated bosses run syndicates from their cells, the violent expansion of gangs into rural towns like Malmesbury, and the landmark trial exposing state armouries supplying the underworld.
+
+Original report: https://globalinitiative.net/analysis/western-cape-gang-monitor-issue-10/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel break down Issue 10 of the Western Cape Gang Monitor by the Global Initiative Against Transnational Organized Crime. They explore why military deployment under Operation Prosper is faltering, how incarcerated bosses run syndicates from their cells, the violent expansion of gangs into rural towns like Malmesbury, and the landmark trial exposing state armouries supplying the underworld.
+
+Original report: https://globalinitiative.net/analysis/western-cape-gang-monitor-issue-10/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/western-cape-gang-monitor-issue-10/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/western-cape-gang-monitor-issue-10/</guid>
+      <pubDate>Thu, 29 Oct 2026 13:01:26 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261029-3866ef/2026-10-29-western-cape-gang-monitor-issue-10.mp3" length="7853591" type="audio/mpeg"/>
+      <itunes:duration>0:16:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Crime at a Crossroads: Eastern and South-Eastern Asia</title>
+      <description>Maya and Daniel unpack the 2025 Global Organized Crime Index report from GI-TOC focusing on Eastern and South-Eastern Asia. They examine the stark regional contrasts, the explosion of industrial cyber-scam compounds and human trafficking, and the world's widest resilience gaps.
+
+Original report: https://globalinitiative.net/analysis/global-organized-crime-index-2025-eastern-and-southeastern-asia-overview/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel unpack the 2025 Global Organized Crime Index report from GI-TOC focusing on Eastern and South-Eastern Asia. They examine the stark regional contrasts, the explosion of industrial cyber-scam compounds and human trafficking, and the world's widest resilience gaps.
+
+Original report: https://globalinitiative.net/analysis/global-organized-crime-index-2025-eastern-and-southeastern-asia-overview/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/global-organized-crime-index-2025-eastern-and-southeastern-asia-overview/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/global-organized-crime-index-2025-eastern-and-southeastern-asia-overview/</guid>
+      <pubDate>Thu, 29 Oct 2026 13:09:36 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261029-324a74/2026-10-29-global-organized-crime-index-2025-continental-over.mp3" length="8140744" type="audio/mpeg"/>
+      <itunes:duration>0:16:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
