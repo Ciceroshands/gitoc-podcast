@@ -6,13 +6,33 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:08:57 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Mapping Colombia's Revived Caribbean Cocaine Corridors</title>
+      <description>Maya and Daniel dissect a comprehensive report from the Global Initiative Against Transnational Organized Crime (GI-TOC) on how Colombian cocaine trafficking routes through the Caribbean are reviving to supply booming European markets. They explore the internal transport corridors, maritime smuggling methods, corruption dynamics, and regional geopolitical shifts detailed in the investigation.
+
+Original report: https://globalinitiative.net/analysis/cocaine-corridors/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel dissect a comprehensive report from the Global Initiative Against Transnational Organized Crime (GI-TOC) on how Colombian cocaine trafficking routes through the Caribbean are reviving to supply booming European markets. They explore the internal transport corridors, maritime smuggling methods, corruption dynamics, and regional geopolitical shifts detailed in the investigation.
+
+Original report: https://globalinitiative.net/analysis/cocaine-corridors/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/cocaine-corridors/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/cocaine-corridors/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:06:20 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261030-825606/2026-10-30-cocaine-corridors.mp3" length="6955830" type="audio/mpeg"/>
+      <itunes:duration>0:14:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Inside the Western Cape Gang Ecosystem</title>
       <description>Maya and Daniel break down Issue 10 of the Western Cape Gang Monitor by the Global Initiative Against Transnational Organized Crime. They explore why military deployment under Operation Prosper is faltering, how incarcerated bosses run syndicates from their cells, the violent expansion of gangs into rural towns like Malmesbury, and the landmark trial exposing state armouries supplying the underworld.
