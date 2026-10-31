@@ -6,13 +6,53 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:08:28 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Where Next for the UNTOC? The Future of the Palermo Convention</title>
+      <description>Maya and Daniel examine a briefing from the Global Initiative Against Transnational Organized Crime on the future of the UN Convention against Transnational Organized Crime (UNTOC). They explore the structural delays in the convention's review mechanism, the data gap in the Global South, and the political and financial challenges facing multilateral efforts at COP13.
+
+Original report: https://globalinitiative.net/analysis/gitoc-untoc-cop13/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine a briefing from the Global Initiative Against Transnational Organized Crime on the future of the UN Convention against Transnational Organized Crime (UNTOC). They explore the structural delays in the convention's review mechanism, the data gap in the Global South, and the political and financial challenges facing multilateral efforts at COP13.
+
+Original report: https://globalinitiative.net/analysis/gitoc-untoc-cop13/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/gitoc-untoc-cop13/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/gitoc-untoc-cop13/</guid>
+      <pubDate>Sat, 31 Oct 2026 05:00:32 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261031-de35fd/2026-10-31-the-gi-toc-at-the-13th-conference-of-the-parties-t.mp3" length="5280240" type="audio/mpeg"/>
+      <itunes:duration>0:11:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Kinship, Crime, and the Clan Debate in Germany</title>
+      <description>Maya and Daniel unpack a landmark report from the Global Initiative Against Transnational Organized Crime examining Arabic-speaking criminal networks in Germany. They explore the roots of long-established Mardin-origin clans, the rise of newer Syrian networks, and what law enforcement often gets wrong about kinship and organized crime.
+
+Original report: https://globalinitiative.net/analysis/kinship-crime-arabic-speaking-criminal-networks-germany/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel unpack a landmark report from the Global Initiative Against Transnational Organized Crime examining Arabic-speaking criminal networks in Germany. They explore the roots of long-established Mardin-origin clans, the rise of newer Syrian networks, and what law enforcement often gets wrong about kinship and organized crime.
+
+Original report: https://globalinitiative.net/analysis/kinship-crime-arabic-speaking-criminal-networks-germany/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/kinship-crime-arabic-speaking-criminal-networks-germany/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/kinship-crime-arabic-speaking-criminal-networks-germany/</guid>
+      <pubDate>Sat, 31 Oct 2026 05:07:59 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261031-8d0316/2026-10-31-arabic-speaking-criminal-networks-in-germany.mp3" length="8421814" type="audio/mpeg"/>
+      <itunes:duration>0:17:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Mapping Colombia's Revived Caribbean Cocaine Corridors</title>
       <description>Maya and Daniel dissect a comprehensive report from the Global Initiative Against Transnational Organized Crime (GI-TOC) on how Colombian cocaine trafficking routes through the Caribbean are reviving to supply booming European markets. They explore the internal transport corridors, maritime smuggling methods, corruption dynamics, and regional geopolitical shifts detailed in the investigation.
