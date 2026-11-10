@@ -14,5 +14,8 @@
     "https://globalinitiative.net/analysis/western-cape-gang-monitor-issue-10/",
     "https://globalinitiative.net/announcements/usp-gitoc-academic-cooperation/"
   ],
-  "failures": {}
+  "failures": {
+    "https://globalinitiative.net/analysis/illicit-gold-global-markets/": 1,
+    "https://globalinitiative.net/announcements/calling-innovative-proposals-to-combat-organized-crime-in-the-mekong/": 1
+  }
 }
