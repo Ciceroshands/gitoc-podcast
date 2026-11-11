@@ -6,13 +6,53 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:24:47 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Inside GI-TOC's Whistleblowing Policy</title>
+      <description>Maya and Daniel break down the Global Initiative Against Transnational Organized Crime's formal whistleblowing policy. They examine who can report, the explicit protections and reporting channels, how investigations are conducted, and the institutional governance designed to safeguard integrity.
+
+Original report: https://globalinitiative.net/analysis/who-will-protect-the-upcoming-elections-from-criminal-networks/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel break down the Global Initiative Against Transnational Organized Crime's formal whistleblowing policy. They examine who can report, the explicit protections and reporting channels, how investigations are conducted, and the institutional governance designed to safeguard integrity.
+
+Original report: https://globalinitiative.net/analysis/who-will-protect-the-upcoming-elections-from-criminal-networks/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/who-will-protect-the-upcoming-elections-from-criminal-networks/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/who-will-protect-the-upcoming-elections-from-criminal-networks/</guid>
+      <pubDate>Wed, 11 Nov 2026 05:20:56 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261111-f3c919/2026-11-11-haiti-s-quid-pro-quo.mp3" length="6026480" type="audio/mpeg"/>
+      <itunes:duration>0:12:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Inside GI-TOC's Whistleblowing Framework</title>
+      <description>Maya and Daniel break down the Global Initiative Against Transnational Organized Crime's formal whistleblowing policy. They examine the scope of reportable misconduct, the strict rules around confidentiality and anonymous reporting, the specific reporting channels, and how investigations and governance oversight are structured.
+
+Original report: https://globalinitiative.net/analysis/illicit-gold-global-markets/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel break down the Global Initiative Against Transnational Organized Crime's formal whistleblowing policy. They examine the scope of reportable misconduct, the strict rules around confidentiality and anonymous reporting, the specific reporting channels, and how investigations and governance oversight are structured.
+
+Original report: https://globalinitiative.net/analysis/illicit-gold-global-markets/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/illicit-gold-global-markets/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/illicit-gold-global-markets/</guid>
+      <pubDate>Wed, 11 Nov 2026 05:24:28 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261111-73a5d5/2026-11-11-gold-at-a-crossroads.mp3" length="7543884" type="audio/mpeg"/>
+      <itunes:duration>0:15:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Where Next for the UNTOC? The Future of the Palermo Convention</title>
       <description>Maya and Daniel examine a briefing from the Global Initiative Against Transnational Organized Crime on the future of the UN Convention against Transnational Organized Crime (UNTOC). They explore the structural delays in the convention's review mechanism, the data gap in the Global South, and the political and financial challenges facing multilateral efforts at COP13.
