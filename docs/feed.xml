@@ -6,13 +6,33 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:41:04 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Inside GI-TOC's Whistleblowing Framework</title>
+      <description>Maya and Daniel examine the official Whistleblowing policy released by the Global Initiative Against Transnational Organized Crime. They break down who can report, the strict rules around confidentiality versus anonymity, the designated intake channels, and how internal investigations are structured.
+
+Original report: https://globalinitiative.net/analysis/a-window-for-reform-rethinking-the-untoc-review-mechanism-after-cop13/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine the official Whistleblowing policy released by the Global Initiative Against Transnational Organized Crime. They break down who can report, the strict rules around confidentiality versus anonymity, the designated intake channels, and how internal investigations are structured.
+
+Original report: https://globalinitiative.net/analysis/a-window-for-reform-rethinking-the-untoc-review-mechanism-after-cop13/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/a-window-for-reform-rethinking-the-untoc-review-mechanism-after-cop13/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/a-window-for-reform-rethinking-the-untoc-review-mechanism-after-cop13/</guid>
+      <pubDate>Fri, 13 Nov 2026 06:07:36 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261113-14e629/2026-11-13-a-window-for-reform-rethinking-the-untoc-review-me.mp3" length="7270330" type="audio/mpeg"/>
+      <itunes:duration>0:15:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Inside GI-TOC's Whistleblowing Policy</title>
       <description>Maya and Daniel break down the Global Initiative Against Transnational Organized Crime's formal whistleblowing policy. They examine who can report, the explicit protections and reporting channels, how investigations are conducted, and the institutional governance designed to safeguard integrity.
