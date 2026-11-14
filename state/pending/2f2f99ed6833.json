@@ -1,0 +1,234 @@
+{
+  "title": "Libya: Human Smuggling Shifts East",
+  "summary": "Maya and Daniel break down a major monitoring brief from the Global Initiative Against Transnational Organized Crime examining the changing dynamics of human smuggling in Libya across 2025 and mid-2026. They trace the geopolitical fractures, enforcement crackdowns in Tripolitania, and the dramatic eastward shift of maritime departures toward Greece.",
+  "turns": [
+    {
+      "speaker": "Maya",
+      "text": "Welcome to our briefing. Today we are digging into a newly published report from the Global Initiative Against Transnational Organized Crime, titled Libya: Human Smuggling Shifts East. It is written by Matt Herbert, Rupert Horsley, and Henry Harbottle."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And this is really essential reading for anyone tracking Mediterranean migration policy, North African security, or illicit economies in the Sahel. Libya has long been the primary transit point, but this report shows the entire map is being redrawn under our feet."
+    },
+    {
+      "speaker": "Maya",
+      "text": "It really is. The headline finding is that between 2025 and the middle of 2026, Libya remained the single most important embarkation hub across the Mediterranean. Over those eighteen months, at least 140,000 migrants departed Libya for Europe, with roughly 70 percent arriving successfully."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Right, but the headline masks two massive structural shifts that happened within that period. First, 2025 saw a huge surge, but then 2026 saw a dramatic drop in the west. Walk us through those numbers, Maya."
+    },
+    {
+      "speaker": "Maya",
+      "text": "So in 2025, departures hit levels not seen since 2017, with over 110,000 people attempting the crossing, up from around 70,000 to 75,000 annually between 2022 and 2024. Most of that was concentrated along the west coast, specifically the corridor between Tripoli and Zuwara. But then in the first half of 2026, overall departures fell by 32 percent, down to about 31,600 compared to 46,400 in the same period of 2025."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And that collapse in the first half of 2026 was almost entirely driven by western Libya. May 2026, which is usually the start of the summer surge, recorded just 534 departures from the west coast, down from over 3,350 in May 2025."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. But as the west dropped off, the east rose to counterbalance it. In 2025, departures from eastern Libya towards Crete increased fivefold. And between January and June 2026, roughly 48 percent of all Libyan departures happened from the east, topping 50 percent during the summer months. By May 2026, eastern Libya set a monthly record of an estimated 5,200 departures."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "That is an astonishing reallocation of routes. Before we look at how the smugglers are operating in the east, we really have to look at the political drivers, because the authors emphasize that politics drives everything in this illicit trade."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Libya remains functionally split. In the west, you have the internationally recognized Government of National Unity, the GNU, led by Prime Minister Abd al-Hamid Dabaiba in Tripoli. In the east and south, you have the Government of National Stability, or GNS, led nominally by Osama Hammad, but where real power sits with Field Marshal Khalifa Haftar and the Libyan Arab Armed Forces, the LAAF."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Let us start with Tripoli and the west, because 2025 was intensely volatile there. What caused the chaos?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "A few things converged. First, there was a sharp rise in anti-foreigner sentiment, partly driven by a visible increase in migrants and refugees. IOM tracking surveys showed an increase of about 126,000 migrants between December 2024 and June 2026. UNHCR estimates of Sudanese refugees alone went from 210,000 to 566,000 over that same timeframe."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And the economy was deteriorating at the same time, right? Power cuts, fuel shortages, and the Libyan dinar sliding on the black market."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Yes, hitting 11 dinars to the euro in September 2026, way past the 7 dinar mark that usually signals acute pressure. That bred resentment. Rumors even spread in March 2025 that Palestinian refugees from Gaza would be resettled in Libya, which sparked protests and violence, including the killing of a Sudanese refugee in Sabratha. GNU figures like Interior Minister Emad Trabelsi instrumentalized this to call for mass deportations."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And then in May 2025, political tensions exploded into the worst fighting Tripoli had seen since 2020."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Right. It centered on Abd al-Ghani al-Kikli, known as Ghnewa, head of the Stabilization Support Apparatus, the SSA. His relationship with Dabaiba and his cousin Ibrahim Dabaiba had completely broken down. Tensions flared in early May when pro-Dabaiba forces attacked an SSA office in al-Khoms. During a tense mediation meeting at Tikbali Camp in southern Tripoli, al-Kikli refused an ultimatum to stand down, shots were fired, and he was killed."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Which triggered immediate armed group realignment. Pro-Dabaiba units seized SSA areas like Abu Salim, but then moved against Rada and the Judicial Security Apparatus. That backfired, drawing in armed groups from Zawiya into western Tripoli. A truce was brokered on May 14th, but Dabaiba came out of it severely weakened."
+    },
+    {
+      "speaker": "Maya",
+      "text": "He did, initially. But the GNU pivoted. Deputy Defence Minister Abd al-Sallam al-Zoubi led a concerted effort to build a counter-migration coalition with key west coast armed groups. By November 2025, a new municipality was created in Zawiya with Hamza Kushlav as mayor, whose brother Walid is a powerful cousin of Hassan Busriba. Then on March 4th, 2026, an iftar dinner in Tripoli brought Dabaiba, al-Zoubi, and Hassan Busriba together, sealing a public reconciliation."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And that reconciliation is the critical reason west coast departures plummeted in 2026. Al-Zoubi used a mix of financial inducements, formal security appointments like creating the 904 Brigade under the Ministry of Defence for Kushlav's forces, and implicit threats like drone strikes."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. He also consolidated influence in Zuwara through the 80th Special Operations Battalion under the 111 Brigade. But there was an important holdout: Mohammed Bahroun, head of the Anti-Security Threats Agency, or ASTA. Bahroun controlled the stretch from west of Sabratha to central Zawiya and refused to join the coalition in early 2026, largely because his GNU funding had been cut. So elements under his control continued facilitating departures from areas like al-Harsha, Mutrud, and Surman."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And Bahroun was involved in another major event in late 2025: the death of the notorious smuggler Ahmed al-Dabbashi, alias al-Amu."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Yes, al-Dabbashi, who had been sanctioned by the UN Security Council back in 2018. In June 2025, fighting broke out between al-Dabbashi and his former ally Bahroun after Bahroun associate Mohamed al-Khadrawi was killed. ASTA raided al-Dabbashi's base, freeing about 600 migrants and taking over his smuggling infrastructure. Al-Dabbashi went into hiding, launched hit-and-run attacks on ASTA checkpoints, and was finally tracked down and killed on December 12th, 2025."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "The report notes that al-Dabbashi's death didn't actually disrupt the volume much, because his networks had already been absorbed by Bahroun's allies. But it marked the symbolic end of that era of hyper-visible, independent militia-smuggler bosses."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Right. But look at how smugglers in the west adapted during this tightening maritime enforcement. In 2025, search-and-rescue interceptions spiked to about 450 boats returned to Libya. Because paying off one militia did not guarantee protection from another, smugglers began investing in expensive fiberglass hulls with twin 240-horsepower outboards, costing around $150,000. To recover that expensive kit, they started using escort vessels to retrieve motors right at the edge of the Libyan search-and-rescue zone."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And that gave rise to that horrifying tactic the authors highlight: forced overboarding."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Yes. Smugglers approach an NGO rescue ship, steer right up to it, and forcibly eject migrants directly into the water to trigger an immediate rescue. That allows the smugglers to speed away with their boat and engines intact without risking interception."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Incredible danger for the people on board. Now let us turn east, because the shift toward Cyrenaica and the Tobruk-to-Crete route is truly the centerpiece of this report. What is driving the boom in eastern Libya?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "In the east, everything touches the Haftar family dynamic and succession planning around Field Marshal Khalifa Haftar, who is 82. Power has been consolidating around his sons. In August 2025, Saddam Haftar was named deputy commander-in-chief of the LAAF, positioning him as the likely political heir. Meanwhile, Khalid Haftar was promoted to chief of the general staff, giving him operational control over the navy and coast guard. And Belqasim Haftar runs the Libya Development and Reconstruction Fund."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And the report points out that the LAAF's maritime capabilities have actually grown significantly, yet maritime departures from Tobruk surged to at least 24,500 in 2025 and nearly 14,000 in the first half of 2026. Why hasn't Khalid Haftar shut that down?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Historically, the LAAF uses smuggling as political leverage with Europe. They showed they could stop it back in mid-2023 after the horrific Adriana shipwreck, where at least 600 people drowned. But now, it is a steady, institutionalized business. Departures no longer leave from Tobruk city itself; they launch from the Cambot area east of Tobruk or the Bay of Bomba."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And the smuggling networks running those sites are deeply entrenched, right?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Central roles are played by a small cluster of well-known Tobruk families who have run contraband for decades. They own coastal land, have deep tribal standing, and possess strong ties to the LAAF. The report even notes evidence of local boatbuilding expanding around Tobruk to supply the trade."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "The operational profile of the boats on the Crete route changed compared to 2023 as well. It used to be massive trawlers, but now it is smaller vessels."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. In 2025, across 439 vessels tracked to Crete, the average passenger load was 58. In the first half of 2026, it fell further to an average of about 45 across 311 vessels. And prices dropped dramatically. In 2024, a crossing cost between €2,100 and €3,500. By early 2026, Greek authorities reported prices down between €340 and €1,450. Smugglers are often rationing fuel so boats barely have enough to reach Crete, and they frequently force migrants, especially Sudanese, to steer the boats in exchange for cheap fares."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Which explains why deaths on that route are climbing: at least 268 confirmed deaths in 2025, and 230 in just the first six months of 2026. Who are the migrants taking these eastern routes?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "In 2025, Egyptians and Sudanese each accounted for 37 percent of arrivals in Crete. But we are also seeing a rapid growth in Bangladeshis, with around 3,500 arriving in Crete in 2025 and nearly 3,850 in just the first half of 2026. And that connects directly to the second eastern dynamic: hybrid smuggling via Benghazi's Benina airport."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Let us unpack that term, hybrid smuggling. The report describes it as journeys combining regular or semi-regular air travel with clandestine overland and maritime crossings."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Right. Roughly 64,000 migrants from nationalities tied to hybrid smuggling, mostly Bangladeshis, Pakistanis, and Egyptians, arrived in Italy and Greece during the 18-month reporting period. They fly into Benina airport on commercial flights via hubs like Dubai, Cairo, or Türkiye. And it has become completely bureaucratized."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Explain that clearance process, because it sounds practically like an official state-run visa regime."
+    },
+    {
+      "speaker": "Maya",
+      "text": "It is run by the LAAF's Military Investment Authority, the MIA. An origin-country travel agent coordinates with Libyan agents, submitting passport copies, sponsorship letters, and flight tickets to two MIA-linked firms in Benghazi. The fee is paid in cash in US dollars: $500 for foreigners already in Libya, or $700 for new applicants. When migrants land at Benina, they are met by representatives and driven away smoothly. Total package costs for South Asians range from $3,500 to $4,900, excluding the sea crossing."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "It gives the GNS and LAAF plausible deniability by presenting it as regular labor recruitment, while funneling thousands directly into the maritime departure pipeline. Now, what about the south? The report discusses major instability in the Fezzan."
+    },
+    {
+      "speaker": "Maya",
+      "text": "The Fezzan has seen a massive security fracture. As part of succession maneuvering, the Haftar leadership moved to break up senior commanders who had independent power bases. In February 2025, they disbanded the 128 Brigade, led by Hassan al-Zadma. The 128 was heavily Awlad Suleiman and had deep roots across the southern communities."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And pushing out the 128 and disarming local Tebu units created a dangerous vacuum."
+    },
+    {
+      "speaker": "Maya",
+      "text": "It triggered open insurgency. On January 31st, 2026, a new group emerged calling itself the Revolutionaries of the South, led by Mohamed Wardago, the brother of the late Tebu commander Barka Wardago. They launched coordinated attacks on the Toummo border crossing with Niger, the Bograra checkpoint, and the Salvador Pass. They mobilized around 500 fighters, including Tebu, Awlad Suleiman, Tuareg, and Gaddadfa, armed with heavy weapons left over from the 128."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And they formed alliances with Chadian insurgent groups like the CCMSR and FACT. What are they fighting over?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "They point to chronic economic neglect, but specifically they protest the LAAF's diversion of subsidized fuel and food from the Fezzan to support the Rapid Support Forces across the border in Sudan. Local grievances boiled over. By mid-2026, the insurgents were conducting raids near Qatrun and attacking LAAF interior posts like the Arandega checkpoint."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And the LAAF responded by sealing the Niger border, banning popular vehicles like Toyota Hiluxes and Tundras, and flooding the area with Cyrenaican troops. What did that do to smuggling along the Niger corridor?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "It essentially shut down direct smuggling between Niger and southwestern Libya. Smugglers in Niger have either exited the market or shifted to servicing artisanal gold mines like Djado. But as the southwestern route shut down, the southeastern corridor across Sudan and Chad exploded."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Driven by the devastating war in Sudan. In early 2025, Kufra was seeing 1,000 to 3,000 Sudanese refugees arriving every week. But then in mid-2025, that border shifted too, didn't it?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "It did. In April 2025, the local Zway brigade, Subul al-Salam, closed the border after Libyans were abducted in Sudan. Then in June, the RSF seized the Sudanese side of the border. Direct crossing into Kufra became restricted because the LAAF and RSF wanted to preserve that corridor for military logistics. So Sudanese refugees adapted, rerouting through eastern Chad, moving from Tine up through border goldfields into southern Libya, or even traveling north through Egypt to cross the eastern border into Cyrenaica."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And increasingly, those Sudanese refugees who previously stayed in Libya are deciding to embark for Europe. Arrivals of Sudanese in Italy and Greece tripled in 2025 to 13,500, with over 9,300 landing in Greece via the Tobruk-Crete route."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Because conditions inside Libya became unlivable. Xenophobic crackdowns, mass arrests, and extortion. In March 2025, a raid in Zella freed 164 migrants, uncovered mass graves, and revealed that 71 victims had been extorted for €8,625 each under torture. When you combine that violence with vanishing hopes of returning to Sudan, more refugees are paying the discounted €300 to €1,000 fees to board boats in eastern Libya."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "When we step back and look at the report's conclusions and outlook, what are the core takeaways for policymakers?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "The first is that the suppression of smuggling in western Libya is fundamentally fragile. Al-Zoubi's coalition relies on transactional deals with armed groups who have historically flipped back and forth between interdiction and facilitation. If political deals in Tripoli fray, or if popular anti-migrant backlash forces the GNU to let people depart, western departures could snap back almost overnight."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And the second takeaway is that eastern Libya is now the undisputed center of gravity. European diplomacy has spent years fixated on Tripoli, but the routes to Crete, the hybrid air pipeline into Benina, and the LAAF's internal succession politics are what will dictate Mediterranean smuggling trends moving forward."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. The authors emphasize that eastern smuggling runs along roughly 300 kilometers of coastline from the Bay of Bomba to Emsaed, which is vastly harder to patrol than the western corridor. And with the Haftar family balancing succession against growing insurgent unrest in the Fezzan, their focus is deeply divided."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "So watching whether the LAAF cracks down on Tobruk or uses it as diplomatic leverage, while monitoring al-Zoubi's fragile coalition in the west, is where our eyes need to be. A fascinating, granular report."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Indeed. That is all for today's deep dive into the GI-TOC monitoring report on Libya. Thank you for listening."
+    }
+  ]
+}

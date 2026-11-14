@@ -6,13 +6,33 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:30:14 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>The Business of War in the Central Sahel</title>
+      <description>Maya and Daniel break down a landmark report from the Global Initiative Against Transnational Organized Crime exploring how illicit economies fuel armed conflict across Mali, Niger, and Burkina Faso. They examine the resurgence of foreign kidnap-for-ransom, the contestation of vital transport corridors, shifting artisanal gold and drug supply chains, and actionable entry points for policy intervention.
+
+Original report: https://globalinitiative.net/analysis/the-business-of-war-illicit-economies-sahel/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel break down a landmark report from the Global Initiative Against Transnational Organized Crime exploring how illicit economies fuel armed conflict across Mali, Niger, and Burkina Faso. They examine the resurgence of foreign kidnap-for-ransom, the contestation of vital transport corridors, shifting artisanal gold and drug supply chains, and actionable entry points for policy intervention.
+
+Original report: https://globalinitiative.net/analysis/the-business-of-war-illicit-economies-sahel/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/the-business-of-war-illicit-economies-sahel/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/the-business-of-war-illicit-economies-sahel/</guid>
+      <pubDate>Sat, 14 Nov 2026 05:23:27 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261114-6fb404/2026-11-14-central-sahel-illicit-markets-and-their-intersecti.mp3" length="8747606" type="audio/mpeg"/>
+      <itunes:duration>0:18:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Inside GI-TOC's Whistleblowing Framework</title>
       <description>Maya and Daniel examine the official Whistleblowing policy released by the Global Initiative Against Transnational Organized Crime. They break down who can report, the strict rules around confidentiality versus anonymity, the designated intake channels, and how internal investigations are structured.
