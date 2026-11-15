@@ -6,13 +6,53 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:26:05 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Libya: Human Smuggling Shifts East</title>
+      <description>Maya and Daniel break down a major monitoring brief from the Global Initiative Against Transnational Organized Crime examining the changing dynamics of human smuggling in Libya across 2025 and mid-2026. They trace the geopolitical fractures, enforcement crackdowns in Tripolitania, and the dramatic eastward shift of maritime departures toward Greece.
+
+Original report: https://globalinitiative.net/analysis/human-smuggling-and-trafficking-in-north-africa-and-the-sahel-2026/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel break down a major monitoring brief from the Global Initiative Against Transnational Organized Crime examining the changing dynamics of human smuggling in Libya across 2025 and mid-2026. They trace the geopolitical fractures, enforcement crackdowns in Tripolitania, and the dramatic eastward shift of maritime departures toward Greece.
+
+Original report: https://globalinitiative.net/analysis/human-smuggling-and-trafficking-in-north-africa-and-the-sahel-2026/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/human-smuggling-and-trafficking-in-north-africa-and-the-sahel-2026/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/human-smuggling-and-trafficking-in-north-africa-and-the-sahel-2026/</guid>
+      <pubDate>Sun, 15 Nov 2026 05:15:05 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261115-2f2f99/2026-11-15-human-smuggling-and-trafficking-in-north-africa-an.mp3" length="8952818" type="audio/mpeg"/>
+      <itunes:duration>0:18:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Following Guyanese Gold: Crime, Power, and Illicit Flows</title>
+      <description>Maya and Daniel examine a major investigation by the Global Initiative Against Transnational Organized Crime and SWISSAID into Guyana's gold sector. They explore how elite capture, under-declaration, cross-border smuggling, and international trading hubs like the UAE fuel illicit financial flows across South America and beyond.
+
+Original report: https://globalinitiative.net/analysis/illicit-gold-guyana-suriname/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine a major investigation by the Global Initiative Against Transnational Organized Crime and SWISSAID into Guyana's gold sector. They explore how elite capture, under-declaration, cross-border smuggling, and international trading hubs like the UAE fuel illicit financial flows across South America and beyond.
+
+Original report: https://globalinitiative.net/analysis/illicit-gold-guyana-suriname/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/illicit-gold-guyana-suriname/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/illicit-gold-guyana-suriname/</guid>
+      <pubDate>Sun, 15 Nov 2026 05:25:49 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261115-22a842/2026-11-15-illicit-gold-and-financial-flows-in-guyana-and-sur.mp3" length="7947021" type="audio/mpeg"/>
+      <itunes:duration>0:16:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Business of War in the Central Sahel</title>
       <description>Maya and Daniel break down a landmark report from the Global Initiative Against Transnational Organized Crime exploring how illicit economies fuel armed conflict across Mali, Niger, and Burkina Faso. They examine the resurgence of foreign kidnap-for-ransom, the contestation of vital transport corridors, shifting artisanal gold and drug supply chains, and actionable entry points for policy intervention.

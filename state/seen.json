@@ -10,7 +10,9 @@
     "https://globalinitiative.net/analysis/crimen-organizado-respuesta-estatal-guatemala/",
     "https://globalinitiative.net/analysis/gitoc-untoc-cop13/",
     "https://globalinitiative.net/analysis/global-organized-crime-index-2025-eastern-and-southeastern-asia-overview/",
+    "https://globalinitiative.net/analysis/human-smuggling-and-trafficking-in-north-africa-and-the-sahel-2026/",
     "https://globalinitiative.net/analysis/illicit-gold-global-markets/",
+    "https://globalinitiative.net/analysis/illicit-gold-guyana-suriname/",
     "https://globalinitiative.net/analysis/irans-illicit-economies-after-six-months-of-war/",
     "https://globalinitiative.net/analysis/kinship-crime-arabic-speaking-criminal-networks-germany/",
     "https://globalinitiative.net/analysis/the-business-of-war-illicit-economies-sahel/",
@@ -19,8 +21,6 @@
     "https://globalinitiative.net/announcements/usp-gitoc-academic-cooperation/"
   ],
   "failures": {
-    "https://globalinitiative.net/announcements/calling-innovative-proposals-to-combat-organized-crime-in-the-mekong/": 2,
-    "https://globalinitiative.net/analysis/human-smuggling-and-trafficking-in-north-africa-and-the-sahel-2026/": 2,
-    "https://globalinitiative.net/analysis/illicit-gold-guyana-suriname/": 2
+    "https://globalinitiative.net/announcements/calling-innovative-proposals-to-combat-organized-crime-in-the-mekong/": 2
   }
 }
