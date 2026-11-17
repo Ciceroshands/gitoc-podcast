@@ -6,13 +6,53 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:50:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:44:56 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>New Route, Old Networks: The Lobito Corridor Dilemma</title>
+      <description>Maya and Daniel break down a November 2026 policy brief from the Global Initiative Against Transnational Organized Crime on the Lobito Corridor. They explore how billions in Western infrastructure investment aimed at securing critical minerals risk entrenching existing criminal economies across Central Africa.
+
+Original report: https://globalinitiative.net/analysis/organized-crime-along-the-lobito-corridor/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel break down a November 2026 policy brief from the Global Initiative Against Transnational Organized Crime on the Lobito Corridor. They explore how billions in Western infrastructure investment aimed at securing critical minerals risk entrenching existing criminal economies across Central Africa.
+
+Original report: https://globalinitiative.net/analysis/organized-crime-along-the-lobito-corridor/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/organized-crime-along-the-lobito-corridor/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/organized-crime-along-the-lobito-corridor/</guid>
+      <pubDate>Tue, 17 Nov 2026 05:37:40 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261117-21a99c/2026-11-17-organized-crime-along-the-lobito-corridor.mp3" length="8198420" type="audio/mpeg"/>
+      <itunes:duration>0:17:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Central Africa's Critical Minerals and the Criminal Scramble</title>
+      <description>Maya and Daniel examine a November 2026 report from the Global Initiative Against Transnational Organized Crime on Central Africa's critical raw materials. They analyze how global competition for energy transition minerals is opening doors to armed conflict, geocriminality, and elite capture.
+
+Original report: https://globalinitiative.net/analysis/organized-crime-critical-minerals-central-africa/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine a November 2026 report from the Global Initiative Against Transnational Organized Crime on Central Africa's critical raw materials. They analyze how global competition for energy transition minerals is opening doors to armed conflict, geocriminality, and elite capture.
+
+Original report: https://globalinitiative.net/analysis/organized-crime-critical-minerals-central-africa/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/organized-crime-critical-minerals-central-africa/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/organized-crime-critical-minerals-central-africa/</guid>
+      <pubDate>Tue, 17 Nov 2026 05:44:38 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261117-2256a3/2026-11-17-who-will-profit-from-central-africa-s-critical-min.mp3" length="7786738" type="audio/mpeg"/>
+      <itunes:duration>0:16:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Unpacking the MNET-CTC Collaboration Grants Call</title>
       <description>Maya and Daniel break down the newly published call for proposals under the Mekong Network to Counter Transnational Crime (MNET-CTC) programme, run by GI-TOC and the Australian Government. They explore the grant structure, target crime areas, community resilience focus, cross-border requirements, and key application timelines.
