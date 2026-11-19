@@ -6,13 +6,53 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 05:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:45:25 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Unpacking GI-TOC's Whistleblowing Framework</title>
+      <description>Maya and Daniel examine the formal Whistleblowing Policy released by the Global Initiative Against Transnational Organized Crime. They discuss the scope of covered misconduct, the strict bar against anonymous claims, the specific reporting channels, and how the organization structures oversight and protections.
+
+Original report: https://globalinitiative.net/analysis/balkan-cocaine-networks-south-africa/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine the formal Whistleblowing Policy released by the Global Initiative Against Transnational Organized Crime. They discuss the scope of covered misconduct, the strict bar against anonymous claims, the specific reporting channels, and how the organization structures oversight and protections.
+
+Original report: https://globalinitiative.net/analysis/balkan-cocaine-networks-south-africa/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/balkan-cocaine-networks-south-africa/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/balkan-cocaine-networks-south-africa/</guid>
+      <pubDate>Thu, 19 Nov 2026 05:40:40 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261119-97a097/2026-11-19-a-cocaine-foothold-in-the-south.mp3" length="6703789" type="audio/mpeg"/>
+      <itunes:duration>0:13:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Unpacking the GI-TOC Whistleblowing Policy</title>
+      <description>Maya and Daniel break down the official Whistleblowing Policy document released by the Global Initiative Against Transnational Organized Crime. They examine who can report wrongdoing, the strict rules around confidentiality and anonymity, the named intake contacts, and the structural investigation process. The conversation explores how the policy handles organizational integrity, governance oversight, and protection against retaliation.
+
+Original report: https://globalinitiative.net/analysis/cop13-backs-a-landmark-protocol-on-environmental-crimes-but-the-toughest-negotiations-lie-ahead/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel break down the official Whistleblowing Policy document released by the Global Initiative Against Transnational Organized Crime. They examine who can report wrongdoing, the strict rules around confidentiality and anonymity, the named intake contacts, and the structural investigation process. The conversation explores how the policy handles organizational integrity, governance oversight, and protection against retaliation.
+
+Original report: https://globalinitiative.net/analysis/cop13-backs-a-landmark-protocol-on-environmental-crimes-but-the-toughest-negotiations-lie-ahead/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/cop13-backs-a-landmark-protocol-on-environmental-crimes-but-the-toughest-negotiations-lie-ahead/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/cop13-backs-a-landmark-protocol-on-environmental-crimes-but-the-toughest-negotiations-lie-ahead/</guid>
+      <pubDate>Thu, 19 Nov 2026 05:45:07 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261119-b79aa5/2026-11-19-cop13-backs-a-landmark-protocol-on-environmental-c.mp3" length="5630887" type="audio/mpeg"/>
+      <itunes:duration>0:11:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>New Route, Old Networks: The Lobito Corridor Dilemma</title>
       <description>Maya and Daniel break down a November 2026 policy brief from the Global Initiative Against Transnational Organized Crime on the Lobito Corridor. They explore how billions in Western infrastructure investment aimed at securing critical minerals risk entrenching existing criminal economies across Central Africa.
