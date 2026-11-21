@@ -6,13 +6,33 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:26:41 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Unpacking GI-TOC's Whistleblowing Framework</title>
+      <description>Maya and Daniel examine the official Whistleblowing policy published by the Global Initiative Against Transnational Organized Crime (GI-TOC). They break down the formal reporting procedures, the exact scope of covered misconduct, the strict stance on anonymity, and the institutional safeguards designed to protect whistleblowers and maintain accountability.
+
+Original report: https://globalinitiative.net/analysis/myanmar-rare-earth-mining-red-panda-trade/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine the official Whistleblowing policy published by the Global Initiative Against Transnational Organized Crime (GI-TOC). They break down the formal reporting procedures, the exact scope of covered misconduct, the strict stance on anonymity, and the institutional safeguards designed to protect whistleblowers and maintain accountability.
+
+Original report: https://globalinitiative.net/analysis/myanmar-rare-earth-mining-red-panda-trade/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/myanmar-rare-earth-mining-red-panda-trade/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/myanmar-rare-earth-mining-red-panda-trade/</guid>
+      <pubDate>Sat, 21 Nov 2026 05:26:22 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261121-cee22a/2026-11-21-running-out-of-luck.mp3" length="6873271" type="audio/mpeg"/>
+      <itunes:duration>0:14:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Gang Suppression Force in Haiti: A New Peacekeeping Template?</title>
       <description>Maya and Daniel unpack a November 2026 policy brief from the Global Initiative Against Transnational Organized Crime by Sophie Rutenbar examining Haiti's Gang Suppression Force. They explore why this hybrid, non-UN-led peace enforcement model was created, the logistical and strategic hurdles it faces, and what it reveals about the future of international interventions against powerful criminal groups.
