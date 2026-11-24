@@ -6,13 +6,53 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:48:32 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>The Dirty Business of Green Illusions: Unpacking Waste and Pollution Crime</title>
+      <description>Maya and Daniel break down a landmark report from the Global Initiative Against Transnational Organized Crime on waste and pollution crime. They explore how illicit networks operate inside legitimate corporate supply chains, exploit regulatory gaps, and leverage the green transition for profit.
+
+Original report: https://globalinitiative.net/analysis/waste-and-pollution-crime-europe/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel break down a landmark report from the Global Initiative Against Transnational Organized Crime on waste and pollution crime. They explore how illicit networks operate inside legitimate corporate supply chains, exploit regulatory gaps, and leverage the green transition for profit.
+
+Original report: https://globalinitiative.net/analysis/waste-and-pollution-crime-europe/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/waste-and-pollution-crime-europe/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/waste-and-pollution-crime-europe/</guid>
+      <pubDate>Tue, 24 Nov 2026 05:35:41 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261124-10de69/2026-11-24-waste-and-pollution-crimes-best-practices-guide.mp3" length="7506302" type="audio/mpeg"/>
+      <itunes:duration>0:15:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Europe's Shifting Drug Supply: Volatility, Narcolanchas, and Modular Networks</title>
+      <description>Maya and Daniel examine Issue 5 of the European Drug Trends Monitor from the Global Initiative Against Transnational Organized Crime (GI-TOC). They unpack surging wholesale cocaine prices, the rise of narcolanchas along coastal borders, Poland's emergence as a synthetic cathinone powerhouse, and the growing phenomenon of commodity-agnostic logistics.
+
+Original report: https://globalinitiative.net/analysis/european-drug-trends-monitor-1/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine Issue 5 of the European Drug Trends Monitor from the Global Initiative Against Transnational Organized Crime (GI-TOC). They unpack surging wholesale cocaine prices, the rise of narcolanchas along coastal borders, Poland's emergence as a synthetic cathinone powerhouse, and the growing phenomenon of commodity-agnostic logistics.
+
+Original report: https://globalinitiative.net/analysis/european-drug-trends-monitor-1/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/european-drug-trends-monitor-1/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/european-drug-trends-monitor-1/</guid>
+      <pubDate>Tue, 24 Nov 2026 05:48:10 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261124-29496f/2026-11-24-european-drug-trends-monitor.mp3" length="8039202" type="audio/mpeg"/>
+      <itunes:duration>0:16:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Unpacking GI-TOC's Whistleblowing Framework</title>
       <description>Maya and Daniel examine the official Whistleblowing policy published by the Global Initiative Against Transnational Organized Crime (GI-TOC). They break down the formal reporting procedures, the exact scope of covered misconduct, the strict stance on anonymity, and the institutional safeguards designed to protect whistleblowers and maintain accountability.

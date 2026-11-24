@@ -1,0 +1,199 @@
+{
+  "source": "https://globalinitiative.net/analysis/european-drug-trends-monitor-1/",
+  "title": "Europe's Shifting Drug Supply: Volatility, Narcolanchas, and Modular Networks",
+  "summary": "Maya and Daniel examine Issue 5 of the European Drug Trends Monitor from the Global Initiative Against Transnational Organized Crime (GI-TOC). They unpack surging wholesale cocaine prices, the rise of narcolanchas along coastal borders, Poland's emergence as a synthetic cathinone powerhouse, and the growing phenomenon of commodity-agnostic logistics.",
+  "turns": [
+    {
+      "speaker": "Maya",
+      "text": "Hello and welcome. Today we are digging into a fascinating new report from the Global Initiative Against Transnational Organized Crime, or GI-TOC. It is Issue Number 5 of their European Drug Trends Monitor, dated November 2026."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And if you work in security, policy, or law enforcement—or honestly, if you just follow how illicit markets adapt under pressure—this report is essential reading. It pulls together field research finalized in September 2026, combining enforcement data, encrypted messaging monitoring, and interviews inside the criminal underworld."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Right. And the overarching takeaway is that Europe's illicit drug landscape is undergoing a profound structural shift. We are seeing a move away from simple, linear supply chains toward highly flexible, modular, and commodity-agnostic networks. The report breaks this down across five key trends, starting with something quite surprising in the cocaine market: a sudden return of wholesale price volatility."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Surprising because for the last five years, roughly 2020 through 2025, the story in Western Europe was basically an uninterrupted flood of cheap cocaine. Wholesale prices were tumbling toward market saturation. In Belgium and the Netherlands, wholesale had plummeted from late 2023 levels down to around fifteen to sixteen thousand euros per kilogram in 2025. In parts of Spain, it was dipping toward ten to twelve thousand euros."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. But recent fieldwork shows that in mid-2026, that era of ultra-cheap wholesale cocaine hit a sharp speed bump. Wholesale prices in Belgium and the Netherlands climbed back up to twenty to thirty thousand euros a kilo offline, and up to thirty-three thousand online. Fieldwork in France showed the exact same pattern, rebounding from around seventeen thousand up to twenty-five to thirty thousand euros."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Which begs the obvious question: why the sudden price spike? Is cocaine actually getting scarce in Europe?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "The report is very careful here. It says this is not about absolute scarcity. Aggregate supply is still abundant. What we are seeing is supply chain volatility. Criminal contacts and investigators point to several interconnected factors. One is major enforcement disruptions. For instance, Dutch contacts pointed directly to May 2026, when Spanish authorities intercepted the Arconian, a dry bulk vessel carrying more than thirty tonnes of cocaine off Western Sahara."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Thirty tonnes on a single vessel. That is colossal. And that shipment was linked by investigators to Jos Leijdekkers, the convicted Dutch trafficker sheltering in Sierra Leone."
+    },
+    {
+      "speaker": "Maya",
+      "text": "It was. But as the report notes, mega-shipments like that aren't owned by just one person. They are pooled investments involving syndicates of investors, brokers, logistics coordinators, and downstream buyers. So when you lose thirty tonnes in one blow, the financial shockwave ripples across dozens of interconnected wholesale networks simultaneously."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And there is a psychological element too, right? Intermediaries use headlines about record seizures to justify opportunistic markups and rebuild their profit margins after years of narrowing spreads. Plus, transport costs and bribes to corrupt facilitators have climbed. But what about the street level? Are consumers paying more?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "That is one of the most interesting findings: retail prices have stayed remarkably stable. In France, street retail remains around forty euros a gram at fixed points and fifty euros for delivery. In the Netherlands, it is roughly fifty-five to sixty-five euros on Telegram, while Germany sits around eighty-five to ninety euros. Instead of raising the headline price, dealers are absorbing costs or shrinking the package sizes—especially for crack users. Less product for the same cash."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Which inevitably squeezes the margins of mid-level and street dealers. The report even mentions that in France, some lower-level actors—often minors—have been shifting away from drug dealing toward crime-as-a-service like vehicle theft because the margins in street-level drugs have compressed so much."
+    },
+    {
+      "speaker": "Maya",
+      "text": "And margin compression, combined with pooled losses, breeds extreme violence. When a multi-tonne load disappears, disputes break out over who pays and whether the shipment was really seized or stolen. The report highlights a shocking incident in Overasselt in the Netherlands on August 31st, 2026. A group of masked men launched an assault on the fortified residence of Jan G Junior, a former associate of Leijdekkers. A security guard was killed, two police officers were injured, and thirty-five suspects of multiple nationalities were arrested. Criminal sources linked that confrontation to the seizure of 812 kilos of cocaine at the French-Spanish border just two days prior."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "That brings us right into Key Trend Number 2: how cocaine is actually entering Europe now. The report describes what it calls a 'third wave' of cocaine trafficking."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Right. If the first wave was traditional entry through Spanish ports, and the second wave was the massive exploitation of northwest European container terminals like Antwerp and Rotterdam, this third wave is about bypassing major container ports altogether."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "The numbers from the ports illustrate that shift clearly. Seizures at the port of Antwerp-Bruges fell to just 5.4 tonnes in the first half of 2026, compared to 16.7 tonnes in the first half of 2025, and down from a massive 116 tonnes back in 2023. While Rotterdam still seized nearly eight tonnes in January 2026, increased security at northern ports is driving traffickers south and west."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. They are turning to agile maritime smuggling, specifically using narcolanchas—high-speed, semi-rigid inflatable boats historically used for Moroccan hashish—to move cocaine across the Atlantic and Mediterranean directly onto European shores."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And the report emphasizes that this isn't just a few rogue speedboats. It is a deeply organized maritime support industry."
+    },
+    {
+      "speaker": "Maya",
+      "text": "A complete logistical ecosystem. Look at the Huelva case in May 2026: Spanish authorities dismantled a network operating around the Punta Umbría estuary that was providing logistical support to high-speed boats, seizing twenty thousand litres of fuel. Or consider the Arconian bulk carrier again—investigators found it carried forty-two thousand litres of spare fuel intended specifically to refuel the smaller craft coming out to meet it off the Canary Islands."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "It turns the open ocean into a rendezvous staging area. Mother ships transfer loads to narcolanchas, which then use raw speed to hit remote beaches, river mouths like the Guadalquivir, and estuaries along Andalusia and Portugal."
+    },
+    {
+      "speaker": "Maya",
+      "text": "And the physical asymmetry between law enforcement and these narcolanchas has become lethal. The report revisits the tragic incident in Barbate in February 2024, where six Guardia Civil officers in a small, six-metre craft with an eighty-horsepower engine were confronted by a fourteen-metre narcolancha equipped with four three-hundred-horsepower engines. The narcolancha rammed the patrol craft, killing two officers. Traffickers are heavily empowered, operating faster boats, and carrying military-grade weapons like AK-47s, while state patrol fleets face maintenance backlogs and budget constraints."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "It creates a dangerous dynamic where authorities feel outmatched at sea. Now, let's pivot inland to Key Trend Number 3, because this represents another huge structural shift. We are talking about synthetic drugs, and specifically Poland's rise as a dominant production hub."
+    },
+    {
+      "speaker": "Maya",
+      "text": "This is a dramatic change. For years, European synthetic cathinones—stimulants chemically related to the khat plant, like 4-CMC, 3-CMC, and mephedrone—were mostly imported as finished product from Asia, especially China and India, with the Netherlands acting as the main logistics hub. But that import model is being superseded by domestic European manufacturing, and Poland has taken center stage."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "The statistics in the report on this are startling. Out of sixty-three synthetic cathinone production sites dismantled across the European Union in 2024, forty-seven were in Poland! That is up from forty the year before. By comparison, eleven were in the Netherlands and three in Germany."
+    },
+    {
+      "speaker": "Maya",
+      "text": "And the scale of these operations is industrial. Operation Fabryka, coordinated by Europol up to January 2026, targeted a Polish-led network with Dutch and Belgian ties. It led to eighty-five arrests and the dismantling of twenty-four industrial-scale laboratories across five EU countries. Authorities seized roughly one thousand tonnes of precursor chemicals—enough to manufacture over three hundred tonnes of synthetic drugs."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "What struck me reading about Poland's labs is how modern and modular the business model is. It operates like crime-as-a-service."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Completely compartmentalized. You don't have one vertically integrated gang running the show from A to Z. Instead, you have specialized actors: one procures precursors from abroad, another rents a warehouse on a short-term lease for just a few months, specialized chemists come in to synthesize, and separate logistical contractors handle transport. If the police raid a lab, the financiers and precursor brokers simply hire another crew and set up in a new warehouse next week."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And when regulators ban a specific chemical—like the new EU regulation in September 2026 that scheduled nine additional precursors—these Polish labs pivot immediately. They switch from 4-CMC to 4-MMC, or push unscheduled analogues like 2-MMC and NEP. It is an incredibly agile manufacturing footprint."
+    },
+    {
+      "speaker": "Maya",
+      "text": "That agility is also visible in Key Trend 4, which looks at the globalized cannabis market. While Morocco remains the primary source for resin and Spain continues large-scale cultivation, European markets are now being flooded with legal-grade herbal cannabis from North America and Thailand."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "This feels almost counterintuitive. Why smuggle bulky herbal cannabis across oceans into Europe when Europe already produces so much weed locally?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Because of regulatory divergence and commercial overproduction. In jurisdictions like Canada, parts of the US, and formerly Thailand, legal liberalization created massive production capacity, intense competition, and falling domestic prices. Traffickers can source high-potency, branded products—like 'Cali weed'—and sell them in Europe at premium prices. Dutch customs seized sixty-five and a half tonnes of cannabis in 2025, up from fourteen and a half tonnes in 2024, with much of that surge coming from the US, Canada, and Thailand."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And look at how they are moving it. Gone are the days of just stuffing a few vacuum bags into passenger suitcases—though that still happens. Now it is commercial air freight and sea containers, blending directly into global supply chains. At Schiphol airport in 2025, six tonnes were seized in commercial air cargo, compared to 1.5 tonnes in passenger luggage."
+    },
+    {
+      "speaker": "Maya",
+      "text": "And the cases detailed in the report show incredible sophistication in exploiting commercial logistics. In Germany, a court convicted members of a ring that smuggled over seven tonnes of Canadian cannabis between 2023 and 2024, hidden inside shipments of timber in sea containers, using a front company in Brandenburg. In France, an investigation revealed twenty-one air freight shipments from California to Charles de Gaulle airport concealed inside flat-pack furniture, arcade machines, and fitness equipment."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "What is clever—and troubling—is how these groups don't even need to corrupt the entire freight chain. They use the identities of real, unsuspecting businesses as delivery addresses, and have their own couriers intercept or collect the goods upon arrival. They exploit the edges of the logistical system."
+    },
+    {
+      "speaker": "Maya",
+      "text": "The report also highlights how medical frameworks inside Europe are being exploited. In Portugal, police seized 2.2 tonnes of cannabis from an ostensibly licensed medicinal cultivation facility in Grândola that was actually feeding the illicit market. In Germany, after the April 2024 reforms, medicinal imports jumped from nineteen tonnes to eighty tonnes in just a year, while insurance-covered prescriptions barely grew by ten percent, prompting authorities to crack down on online prescription abuse."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "All of these individual trends lead naturally into Key Trend Number 5, which might be the most crucial conceptual takeaway of the whole report: the rise of commodity-agnostic logistics as a service."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Yes. Organized crime in Europe is increasingly separating the underlying commodity from the logistical infrastructure needed to move it. The criminal network doesn't necessarily care whether the box contains cocaine, cannabis resin, synthetic pills, illegal firearms, or migrants. What they own and monetize is the transport pipeline."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "A perfect example from the report is that joint operation in August 2026 dismantling a network operating between Spain and Algeria. Seventy-eight people were arrested. They ran narcolanchas bringing cannabis resin north from Algeria to Spain, and then sent MDMA, firearms, explosives, and even fugitives back south to Algeria. Two-way, multipurpose criminal logistics."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Or consider the guns-for-drugs swap in March 2026, where Spanish, Bulgarian, and Greek authorities took down a network trading Catalan-grown cannabis for so-called 'Frankenstein' firearms—hybrid weapons combining real parts with homemade metal components—sourced from the Western Balkans and Türkiye. Two distinct illicit markets seamlessly linked by logistics brokers."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And it extends down to parcel delivery services. In June 2026, French and Spanish police uncovered a pipeline that moved 1.45 tonnes of cannabis from Barcelona to Rennes across 114 separate postal parcels over two years. They used false identities, tracked each box with commercial GPS units, and sent the cash proceeds back to Spain through the exact same parcel system. By breaking multi-tonne consignments into small, trackable parcels, they completely diversified their risk."
+    },
+    {
+      "speaker": "Maya",
+      "text": "If customs catches one parcel, the network only loses ten or fifteen kilos, not their entire business. The commercial carrier unwittingly acts as their fleet, providing real-time tracking and delivery."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "So when you step back and look at the entire picture GI-TOC paints, what are the primary takeaways and recommendations for law enforcement and policymakers?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "The core message is that focusing single-mindedly on individual commodities—treating a cocaine case purely as cocaine, or an arms case purely as arms—is an obsolete investigative posture. The convergence is happening in the middle of the supply chain. Law enforcement needs to target the shared logistical bottlenecks: the fuel suppliers, the corrupt port insiders, the warehouse providers, the front companies, and the specialist brokers who connect disparate criminal groups."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Because taking down one lab or seizing one shipment doesn't dismantle the ecosystem. If you take out a critical logistics provider who services multiple syndicates, you disrupt five different illicit supply chains at once."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. And looking ahead, the report highlights several key indicators we need to watch closely. First, whether the wholesale cocaine price hike in Western Europe is a temporary blip caused by mega-seizures like the Arconian, or the start of a permanent structural shift. Second, how street-level distributors react if their profit margins continue to shrink—whether that triggers more violent settling of scores like we saw in Overasselt, or migration into other criminal economies."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And finally, tracking the continued expansion of Poland's synthetic hub, and how maritime enforcement in southern Europe handles the lethal speed and geographic dispersion of the narcolancha fleets."
+    },
+    {
+      "speaker": "Maya",
+      "text": "A lot to monitor as Europe's illicit markets continue to evolve. That wraps up our deep dive into Issue 5 of the European Drug Trends Monitor by GI-TOC. Thank you for listening, and we will see you next time."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Thanks everyone. Stay safe."
+    }
+  ]
+}
