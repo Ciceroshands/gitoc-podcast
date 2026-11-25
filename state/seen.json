@@ -29,5 +29,7 @@
     "https://globalinitiative.net/announcements/calling-innovative-proposals-to-combat-organized-crime-in-the-mekong/",
     "https://globalinitiative.net/announcements/usp-gitoc-academic-cooperation/"
   ],
-  "failures": {}
+  "failures": {
+    "https://globalinitiative.net/analysis/mafia-italy-football-ultras/": 1
+  }
 }
