@@ -11,6 +11,7 @@
     "https://globalinitiative.net/analysis/cop13-backs-a-landmark-protocol-on-environmental-crimes-but-the-toughest-negotiations-lie-ahead/",
     "https://globalinitiative.net/analysis/crimen-organizado-respuesta-estatal-guatemala/",
     "https://globalinitiative.net/analysis/european-drug-trends-monitor-1/",
+    "https://globalinitiative.net/analysis/gangs-gender-based-violence-south-africa/",
     "https://globalinitiative.net/analysis/gitoc-untoc-cop13/",
     "https://globalinitiative.net/analysis/global-organized-crime-index-2025-eastern-and-southeastern-asia-overview/",
     "https://globalinitiative.net/analysis/human-smuggling-and-trafficking-in-north-africa-and-the-sahel-2026/",
@@ -19,6 +20,7 @@
     "https://globalinitiative.net/analysis/irans-illicit-economies-after-six-months-of-war/",
     "https://globalinitiative.net/analysis/kinship-crime-arabic-speaking-criminal-networks-germany/",
     "https://globalinitiative.net/analysis/lessons-from-the-gang-suppression-force-in-haiti/",
+    "https://globalinitiative.net/analysis/mafia-italy-football-ultras/",
     "https://globalinitiative.net/analysis/myanmar-rare-earth-mining-red-panda-trade/",
     "https://globalinitiative.net/analysis/organized-crime-along-the-lobito-corridor/",
     "https://globalinitiative.net/analysis/organized-crime-critical-minerals-central-africa/",
@@ -29,7 +31,5 @@
     "https://globalinitiative.net/announcements/calling-innovative-proposals-to-combat-organized-crime-in-the-mekong/",
     "https://globalinitiative.net/announcements/usp-gitoc-academic-cooperation/"
   ],
-  "failures": {
-    "https://globalinitiative.net/analysis/mafia-italy-football-ultras/": 1
-  }
+  "failures": {}
 }

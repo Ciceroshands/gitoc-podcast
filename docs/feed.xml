@@ -6,13 +6,53 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:48:21 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Inside GI-TOC's Whistleblowing Framework</title>
+      <description>Maya and Daniel examine a newly published policy document titled Whistleblowing from the Global Initiative Against Transnational Organized Crime. They analyze the organization's formal reporting architecture, its designated intake channels and external hotline, the strict prohibition on anonymous complaints, and the governance mechanisms governing investigations.
+
+Original report: https://globalinitiative.net/analysis/gangs-gender-based-violence-south-africa/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine a newly published policy document titled Whistleblowing from the Global Initiative Against Transnational Organized Crime. They analyze the organization's formal reporting architecture, its designated intake channels and external hotline, the strict prohibition on anonymous complaints, and the governance mechanisms governing investigations.
+
+Original report: https://globalinitiative.net/analysis/gangs-gender-based-violence-south-africa/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/gangs-gender-based-violence-south-africa/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/gangs-gender-based-violence-south-africa/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:33:17 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261126-f694f3/2026-11-26-why-south-africa-s-gang-problem-is-also-a-gender-e.mp3" length="5941637" type="audio/mpeg"/>
+      <itunes:duration>0:12:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Inside GI-TOC's Whistleblowing Framework</title>
+      <description>Maya and Daniel examine the Global Initiative Against Transnational Organized Crime's formal whistleblowing policy. They discuss the scope of covered misconduct, the strict ban on anonymous reporting, and the governance mechanisms designed to protect whistleblowers and handle investigations.
+
+Original report: https://globalinitiative.net/analysis/mafia-italy-football-ultras/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine the Global Initiative Against Transnational Organized Crime's formal whistleblowing policy. They discuss the scope of covered misconduct, the strict ban on anonymous reporting, and the governance mechanisms designed to protect whistleblowers and handle investigations.
+
+Original report: https://globalinitiative.net/analysis/mafia-italy-football-ultras/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/analysis/mafia-italy-football-ultras/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/analysis/mafia-italy-football-ultras/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:48:05 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261126-978ea3/2026-11-26-the-mafia-in-the-stands-italy-s-football-ultras.mp3" length="6734088" type="audio/mpeg"/>
+      <itunes:duration>0:14:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Dirty Business of Green Illusions: Unpacking Waste and Pollution Crime</title>
       <description>Maya and Daniel break down a landmark report from the Global Initiative Against Transnational Organized Crime on waste and pollution crime. They explore how illicit networks operate inside legitimate corporate supply chains, exploit regulatory gaps, and leverage the green transition for profit.
