@@ -1,0 +1,239 @@
+{
+  "source": "https://globalinitiative.net/announcements/eco-solve-mid-project-evaluation-report/",
+  "title": "Bridging Momentum to Impact in Environmental Crime",
+  "summary": "Maya and Daniel examine the mid-project evaluation of ECO-SOLVE, a four-year EU-funded project led by the Global Initiative Against Transnational Organized Crime. They discuss the performance of open-source data hubs, grassroots community interventions, cutting-edge forensic grants, and the diplomatic hurdles of tackling illicit environmental flows globally.",
+  "turns": [
+    {
+      "speaker": "Maya",
+      "text": "Welcome to our deep dive. Today we are unpacking a fresh report evaluating ECO-SOLVE, an initiative led by the Global Initiative Against Transnational Organized Crime, or GI-TOC."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And this is specifically the mid-project evaluation report prepared by Foundations of Success Europe, covering the first two years of ECO-SOLVE's four-year mandate. Who really needs to pay attention to this?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Anyone tracking transnational organized crime, environmental security, and how international donor funding actually operates on the ground. The European Union funds ECO-SOLVE under its Global Illicit Flows Programme. It kicked off in 2024 and runs through August 2027."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "So we're sitting right at that 24-month midpoint. The evaluation looks at whether the project's strategy to disrupt illicit environmental commodities is really working, or if it's hitting the typical friction points you see in global policy and enforcement."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. And the big phrase running through this entire evaluation is turning momentum into impact. The project has laid down an impressive foundation across four main outputs, but it faces a core dilemma: how do you connect high-level diplomatic resolutions and hyper-local community wins into long-term, systemic disruption?"
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Let's break down those four outputs one by one. The first one is Data for Disruption, which centers on what they call the Global Monitoring System, or GMS. What does that actually look like right now?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "The GMS has built out a network of ten active data hubs globally. They use an AI-driven web scraper and a newly implemented Case Management System to comb open-source platforms, detect illicit environmental trade, and feed that intelligence to law enforcement."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Right, open-source intelligence, OSINT. And the evaluation looked specifically at whether these hubs are operating efficiently and collecting the right kind of data."
+    },
+    {
+      "speaker": "Maya",
+      "text": "They found analysts are very effective at building relevant species baskets based on CITES listings and national laws, but efficiency is pinched because analysts are stretched remarkably thin. In many hubs, a single analyst is handling daily data entry, scraping, research, app development, and trying to build relationships with law enforcement officers."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "That classic wearing too many hats problem. If you're busy writing a regional trend report, you might not have time to put together a time-sensitive detection pack for an investigator."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Precisely. But when they do get intelligence packages out, the numbers are pretty striking. The evaluation notes that across the network, detection reports have achieved an approximate 41% positive feedback rate, meaning 25 out of 61 submitted reports received positive feedback from authorities."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "In the world of law enforcement intelligence, where agencies rarely confirm anything due to secrecy and ongoing cases, 41% is considered very high. Are there specific cases mentioned?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Yes, several tangible hits. In Nigeria, a detection report led directly to the seizure of four whole elephant tusks. In South Asia, the partner hub reported that out of eight referred cases, four led to arrests—five individuals arrested in total—and seizures of protected wildlife. Plus active investigations were opened in Colombia and Mexico."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And in South Africa, authorities have fielded over 14 direct support requests to the hub, contributing to active investigations. Out of 17 requests across the whole project, 14 came from South Africa alone."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Which shows real operational trust there. But the report also points out the hard limits of OSINT. Public web scraping mostly catches opportunistic poachers, casual sellers, and low-level brokers on places like public Facebook groups. Top-tier transnational syndicates dealing in rhino horn or tiger bone move on encrypted messaging apps."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And even if you have great data, law enforcement might not act. The report mentions Thailand, where a spike in tiger trafficking was documented, but authorities lacked the resources and facilities to seize, house, or euthanize captive tigers. So the data just sits on a shelf."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Or institutional barriers get in the way. In Brazil, strict legislation prevents the Federal Police from sharing case feedback with the hub. In Nigeria, an official embedded in the Customs office occasionally disrupted communications with the hub's main contact. It highlights how reliant these intelligence pipelines are on fragile, one-on-one relationships."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Speaking of partners, there's an interesting structural distinction in the report between ECO-SOLVE's directly managed hubs and its partner-run hubs, right?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Yes, it's a hybrid model. Partner hubs are run by established NGOs like the Wildlife Trust of India, IFAW, and TRAFFIC. With ECO-SOLVE hubs, management has strict oversight, standard data flows, and internal vetting by their Law Enforcement Liaison before anything goes to police. With partner hubs, you get massive pre-existing assets—like WTI's 20-year relationship with India's Wildlife Crime Control Bureau, or IFAW's trusted flagger status under the EU Digital Services Act."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Which lets IFAW mandate the swift takedown of illicit content on social media. But the flip side is what the report calls a black box risk. ECO-SOLVE doesn't control their schedules or staff turnover. The report mentions severe staff turnover in Cameroon that caused operational stalls, and very limited visibility into the MENA hub's daily activities."
+    },
+    {
+      "speaker": "Maya",
+      "text": "And one partner grantee openly noted that the contract budget wasn't sufficient for the intensive level of monitoring expected. So the evaluators suggest ECO-SOLVE needs clearer oversight, stronger engagement, and better integration of those partner hubs into the wider system."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Let's turn to Output 2, which is Multilateral Engagement. This seems to be where ECO-SOLVE has leaned in heavily as a convener."
+    },
+    {
+      "speaker": "Maya",
+      "text": "They have really elevated the profile of environmental crime at venues like the UNTOC Conference of the Parties in Vienna, the Intergovernmental Expert Group, or IEG, and through their own flagship Paris Conference in April 2025."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Diplomats and specialists interviewed in the report gave their convening power a ten out of ten. They praised ECO-SOLVE for gently pushing ambitious ideas, like a new legally binding UNTOC protocol on environmental crime, without alienating cautious member states. And they brought frontline environmental defenders right into the diplomatic rooms."
+    },
+    {
+      "speaker": "Maya",
+      "text": "The Chair of the IEG highlighted that specifically. Having Indigenous leaders and grassroots activists speak directly to member states humanized the issue, shattering that persistent narrative that environmental crime is just a victimless regulatory breach."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "That's a big win. But the evaluation also points out some blind spots. What's holding Output 2 back?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "First, the preaching to the choir problem. The Paris Conference energized countries that already agree, but it struggled to bring in the crucial middle-ground nations—around 30 or more undecided states needed to build real consensus. There was also a clear lack of African state representation at these forums."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And the private sector was completely absent."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Completely absent. No banking sector representatives to discuss illicit financial flows, and no tech company reps to discuss platform accountability and traceability. Furthermore, several diplomats noted that ECO-SOLVE's knowledge products can sometimes be too academic or theoretical, when what delegates really need are short, concise, actionable policy briefs translated into languages like French and Spanish."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And there's that perennial question: does any of this diplomatic talk in Vienna or Paris actually translate into law enforcement action on the ground? The report is very honest about that."
+    },
+    {
+      "speaker": "Maya",
+      "text": "It acknowledges that non-binding multilateral declarations frequently fail to reach local enforcement priorities. But the report points out proofs of concept. For example, ECO-SOLVE analysis on the illegal wildlife trade in Laos directly supported CITES in applying new trade sanctions against Laos. And historically, the 2003 UNTOC Human Trafficking Protocol forced global harmonization of criminal laws. So strong, binding mechanisms can work, provided there is real oversight and accountability."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "That brings us neatly to Output 3: Community Engagement for Strengthened Law Enforcement. This is the grassroots counterweight to the high-level policy work."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Right. Here, ECO-SOLVE provides targeted community grants, using what they call Resilience Dialogues to co-design projects with Indigenous peoples, quilombolas, riverine communities, campesinos, women, and youth."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And some of the examples are really compelling. Look at Brazil: instead of pushing joint police patrols, which would have been suicidal given historical police violence and distrust, they funded physical security. They backed the Casa de Respiro to give threatened defenders a safe house, and funded sirens, cameras, and fire extinguishers in local territories."
+    },
+    {
+      "speaker": "Maya",
+      "text": "And in the Kayapó Indigenous territory, community leaders established their own monitoring bases at river entry points to physically block illegal gold miners without relying on police. While in Colombia, campesino groups set up voluntary conservation agreements tied to ecotourism, responsible wood processing, and agroforestry to outcompete the financial incentives of deforestation."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "In Vietnam, community patrols using SMART technology alongside rangers led to measurable drops in illegal activity and sightings of returning wildlife. And in Indonesia, villagers in Mekar Makmur used persuasive dialogues to deter illegal loggers, while other groups set up Sea Guardian hubs to tackle illicit fishing."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Grantees consistently praised ECO-SOLVE's grant management. They described it as unbureaucratic, highly flexible, and built on trust, avoiding micromanagement and burdensome paperwork."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "But there are serious systemic tensions here. The biggest one is grant duration. These grants typically last only 6 to 12 months."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Yes, that was the most universal critique. Six to twelve months is barely enough time to establish basic community trust, let alone build enduring institutions. Grantees asked how they can keep paying patrol stipends or maintaining technical platforms like Indonesia's Village Information System once the grant expires. In one case, a tiny team of volunteers is trying to protect 4,000 hectares, staring down burnout."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And the personal danger for defenders is severe. Intimidation, violence from cartels, criminalization by corrupt officials. Grantees pointed out they need long-term safety nets that ECO-SOLVE doesn't currently provide—things like formal insurance, emergency legal aid funds, and satellite phones for remote patrols."
+    },
+    {
+      "speaker": "Maya",
+      "text": "There's also a fundamental scale mismatch. As inspiring as an intervention is that touches 40 to 100 people in one municipality, it doesn't automatically disrupt a multi-million-dollar transnational syndicate. The evaluation urges ECO-SOLVE to define clear scaling objectives for Output 3—either through longer grants with coaching, or by codifying lessons into tools like their recent handbook, Creating Impactful Community Engagement, so others can replicate it."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Let's move into Output 4, the Grant Hub, specifically the Amplifying Grants. These are designed to fund innovative technologies to close the global forensic data deficit. What does the portfolio look like?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "These grants range from 75,000 to 250,000 euros for 3 to 12 months. They've funded some fascinating pilots. World Parrot Trust is piloting microbiome profiling to distinguish wild-caught African grey parrots from captive-bred birds across South Africa, Iraq, and the UAE."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Which is way cheaper and faster than traditional isotope analysis. Then there is TRACE Wildlife Forensics Network, deploying portable MinION DNA sequencers for timber and tiger parts in Peru, Vietnam, and Angola. In Peru, local technicians at the Wildlife Conservation Laboratory were trained to run sequencing independently."
+    },
+    {
+      "speaker": "Maya",
+      "text": "And WWF Brazil is using AI combined with geochemical analysis to trace illegal gold. Meanwhile, the Zoological Society of London partnered with timber traders Brooks Brothers and previously Kingfisher to test veneers against forensic reference libraries, embedding science right into commercial supply chains."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Those sound like great technical solutions. But what roadblocks did the evaluators uncover?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "First, the academic-operational gap. Many tools are developed in university labs as proofs of concept without real frontline input from police officers or border guards. Second, raw geopolitics and bureaucracy. World Parrot Trust faced massive delays getting foreign affairs permits in the UAE, and the South African Border Management Authority abruptly pulled out of their pilot."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Plus the legal hurdle: can these novel AI or DNA tests stand up to strict chain-of-custody scrutiny and evidentiary standards in a courtroom? And who pays for ongoing cloud storage, satellite data, or reagent kits when a 12-month grant ends?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Exactly. Grantees explicitly called 12 months vanishingly short to do rigorous science, field-test a tool, and integrate it into government policing routines. They also reported feeling siloed, unaware of what other ECO-SOLVE grantees were doing, which misses easy synergies."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "When you zoom out across the whole evaluation, what are the overarching strategic recommendations that Foundations of Success puts forward for the final two years?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Four main pillars. First, scale and sustain interventions. Donors and management must pair short-term catalytic grants with clear institutional handover plans, longer timeframes, and follow-on funding so innovations don't just sit in a box on a shelf."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "Second, align outputs for cohesive impact. Break down the internal silos. Right now, Output 2's multilateral team operates almost on a separate plane from the GMS data hubs and the tech grants. Output 1's trend data and Output 4's tech successes should be directly fueling the diplomatic advocacy in Vienna and Paris."
+    },
+    {
+      "speaker": "Maya",
+      "text": "Third, pivot to strategic law enforcement support. Chronically under-resourced police forces don't just need raw detection packs dumped on their desks; they need help formulating strategic responses. That means expanding localized, in-person OSINT trainings—like the successful ones in Cali, Colombia, and Jordan—and maintaining informal, trust-building check-ins like regular monthly coffees, while pursuing policy changes that make wildlife crime an enforcement priority."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "And fourth, broaden and integrate partnerships. Bring the private sector—especially banks and tech platforms—to the multilateral table, engage bilaterally with undecided middle-ground nations and African states, and establish stronger integration and oversight for partner-run hubs."
+    },
+    {
+      "speaker": "Maya",
+      "text": "And for Output 3, they recommend prioritizing meaningful qualitative impact over rigid quantitative box-checking, while strictly applying the new Guidance Note on Community Engagement with Law Enforcement to keep frontline defenders safe."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "So what should we be watching as ECO-SOLVE heads toward its August 2027 finish line?"
+    },
+    {
+      "speaker": "Maya",
+      "text": "Watch whether the diplomatic push can secure a dedicated UNTOC protocol or meaningful resolution on environmental crime with binding teeth. Watch whether tech tools like portable DNA sequencers and microbiome profiling get officially adopted by border agencies. And see if ECO-SOLVE can structure a follow-on phase soon enough to prevent the momentum they've built on the ground from fading away."
+    },
+    {
+      "speaker": "Daniel",
+      "text": "A crucial halfway mark for an ambitious initiative. We'll leave it there. Thanks for listening."
+    }
+  ]
+}

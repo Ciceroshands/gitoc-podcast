@@ -6,13 +6,33 @@
     <atom:link href="https://ciceroshands.github.io/gitoc-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:33:57 +0000</lastBuildDate>
     <itunes:author>Private feed</itunes:author>
     <itunes:summary>Automatic two-host audio briefings on new reports from the Global Initiative Against Transnational Organized Crime. Unofficial, AI-generated, private feed.</itunes:summary>
     <itunes:image href="https://ciceroshands.github.io/gitoc-podcast/cover.png"/>
     <itunes:category text="News"><itunes:category text="Politics"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>Bridging Momentum to Impact in Environmental Crime</title>
+      <description>Maya and Daniel examine the mid-project evaluation of ECO-SOLVE, a four-year EU-funded project led by the Global Initiative Against Transnational Organized Crime. They discuss the performance of open-source data hubs, grassroots community interventions, cutting-edge forensic grants, and the diplomatic hurdles of tackling illicit environmental flows globally.
+
+Original report: https://globalinitiative.net/announcements/eco-solve-mid-project-evaluation-report/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</description>
+      <itunes:summary>Maya and Daniel examine the mid-project evaluation of ECO-SOLVE, a four-year EU-funded project led by the Global Initiative Against Transnational Organized Crime. They discuss the performance of open-source data hubs, grassroots community interventions, cutting-edge forensic grants, and the diplomatic hurdles of tackling illicit environmental flows globally.
+
+Original report: https://globalinitiative.net/announcements/eco-solve-mid-project-evaluation-report/
+
+AI-generated audio summary for private listening. Not produced or endorsed by GI-TOC.</itunes:summary>
+      <link>https://globalinitiative.net/announcements/eco-solve-mid-project-evaluation-report/</link>
+      <guid isPermaLink="false">https://globalinitiative.net/announcements/eco-solve-mid-project-evaluation-report/</guid>
+      <pubDate>Fri, 27 Nov 2026 05:33:42 +0000</pubDate>
+      <enclosure url="https://github.com/Ciceroshands/gitoc-podcast/releases/download/ep-20261127-e079c1/2026-11-27-eco-solve-mid-project-evaluation-report.mp3" length="7722989" type="audio/mpeg"/>
+      <itunes:duration>0:16:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Inside GI-TOC's Whistleblowing Framework</title>
       <description>Maya and Daniel examine a newly published policy document titled Whistleblowing from the Global Initiative Against Transnational Organized Crime. They analyze the organization's formal reporting architecture, its designated intake channels and external hotline, the strict prohibition on anonymous complaints, and the governance mechanisms governing investigations.
